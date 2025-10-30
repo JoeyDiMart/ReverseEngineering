@@ -1,0 +1,34 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.xml
+*.iml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# CMake build directories
+cmake-build-*/
+build/
+out/
+
+# Compiled executables (no extension on Unix/Linux/macOS)
+*.exe
+*.out
+*.app
+
+# Object files and libraries
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+
+# CMake cache and generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
